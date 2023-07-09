@@ -11,6 +11,7 @@
     "nodemon": "^2.0.22",
     "path": "^0.12.7",
     "shortid": "^2.2.16",
+    "socket.io": "2.2.0",
     "uuid": "^9.0.0"
   },
   "scripts": {
